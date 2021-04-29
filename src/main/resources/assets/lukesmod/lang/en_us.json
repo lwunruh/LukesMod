@@ -1,0 +1,12 @@
+{
+  "itemGroup.lukesmod.mod_items": "Luke's Mod",
+  "block.lukesmod.noah_block": "Noah Block",
+  "block.lukesmod.brayden_block": "Brayden Block",
+  "item.lukesmod.essence_of_brayden": "Essence of Brayden",
+  "item.minecraft.potion.effect.potion_of_levitation": "Potion of Levitation",
+  "item.minecraft.splash_potion.effect.potion_of_levitation": "Splash Potion of Levitation",
+  "item.minecraft.lingering_potion.effect.potion_of_levitation": "Lingering Potion of Levitation",
+  "item.minecraft.tipped_arrow.effect.potion_of_levitation": "Arrow of Levitation",
+  "item.lukesmod.exploding_arrow": "Exploding Arrow",
+  "item.lukesmod.exploding_bow": "Exploding Bow"
+}

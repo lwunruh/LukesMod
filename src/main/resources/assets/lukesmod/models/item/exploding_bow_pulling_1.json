@@ -1,0 +1,6 @@
+{
+  "parent": "lukesmod:item/exploding_bow",
+  "textures": {
+    "layer0": "lukesmod:items/exploding_bow_pulling_1"
+  }
+}
